@@ -4,6 +4,9 @@ Link to Kaggle: ![Kaggle](https://www.kaggle.com/rahuldshetty/image-colorization
 
 Download and save the model.h5 from Kaggle to this directory for evaluating. Make sure to have grayscale image in 'samples', expected result in 'outputs'.
 
+Below imagees in order: 
+Gray scale, Expected, Actual
+
 ![0](https://raw.githubusercontent.com/rahuldshetty/image-colorization-autoencoders/master/predicted/0.png)
 ![1](https://raw.githubusercontent.com/rahuldshetty/image-colorization-autoencoders/master/predicted/1.png)
 ![2](https://raw.githubusercontent.com/rahuldshetty/image-colorization-autoencoders/master/predicted/2.png)
